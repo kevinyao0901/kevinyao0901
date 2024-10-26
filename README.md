@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="png/Doge.webp" alt="Doge" width="200" style="border-radius: 50%; object-fit: cover;">
+<img src="https://images.weserv.nl/?url=raw.githubusercontent.com/kevinyao0901/kevinyao0901/master/png/Doge.webp&h=360&w=360&fit=cover&mask=circle&maxage=7d"/>
 
 </div>
 
