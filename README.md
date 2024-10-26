@@ -1,5 +1,7 @@
 <div align="center">
-<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/10475770?v=4&h=360&w=360&fit=cover&mask=circle&maxage=7d"/>
+
+<img src="png/Doge.webp" alt="Doge" width="200" style="border-radius: 50%; object-fit: cover;">
+
 </div>
 
 <div align="center">
