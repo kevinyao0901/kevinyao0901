@@ -10,13 +10,13 @@
 
 ## Research 🧐
 
-<!--START_SECTION:waka-->
+<!--START_SECTION:research-->
 
-```txt
+```
 Current research focuses on enhancing the resilience of Large Language Models (LLMs) against incorrect predictions. Work involves developing methods to ensure that LLMs can handle errors efficiently, maintain performance stability, and recover from potential inaccuracies during inference.
 ```
 
-<!--END_SECTION:waka-->
+<!--END_SECTION:research-->
 
 ## Github Status 🥰
 
@@ -27,7 +27,12 @@ Current research focuses on enhancing the resilience of Large Language Models (L
 
 <!-- ![3D-Profile](https://raw.githubusercontent.com/kevinyao0901/kevinyao0901/master/profile-3d-contrib/profile-south-season-animate.svg) -->
 
-![Snake-Profile](https://raw.githubusercontent.com/kevinyao0901/kevinyao0901/master/dist/github-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake.svg">
+</picture>
+
 
  ![Markdown](https://img.shields.io/badge/markdown%20💘-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
