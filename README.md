@@ -7,7 +7,7 @@
 <div align="center">
 
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?center=true&color=2DB136&lines=First+line+of+text;Second+line+of+text)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2DB136&center=true&repeat=false&width=435&lines=Hi+there+!+I'm+Kevin+!;Welcom+to+my+homepage!)](https://git.io/typing-svg)
 
 <a href="https://github.com/kevinyao0901"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
