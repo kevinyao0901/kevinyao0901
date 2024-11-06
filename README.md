@@ -17,9 +17,9 @@
 
 <!--START_SECTION:research-->
 
-```
+
 Current research focuses on enhancing the resilience of Large Language Models (LLMs) against incorrect predictions. Work involves developing methods to ensure that LLMs can handle errors efficiently, maintain performance stability, and recover from potential inaccuracies during inference.
-```
+
 
 <!--END_SECTION:research-->
 
