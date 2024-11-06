@@ -30,7 +30,7 @@ Current research focuses on enhancing the resilience of Large Language Models (L
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinyao0901&hide_border=true"/>
 </div>
 
-<!-- ![3D-Profile](https://raw.githubusercontent.com/kevinyao0901/kevinyao0901/master/profile-3d-contrib/profile-south-season-animate.svg) -->
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake-dark.svg">
